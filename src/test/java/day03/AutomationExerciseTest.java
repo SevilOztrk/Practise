@@ -14,7 +14,7 @@ import java.time.Duration;
 
 public class AutomationExerciseTest {
 
-    // Gerekli setup islemlerini kuralim
+    // er git Gerekli setup islemlerini kuralim
     // https://www.automationexercise.com/ sayfasina gidelim
     // signUp linkine tiklayalim
     // name ve email adress kismina bilgiler gondererek uye olalim
